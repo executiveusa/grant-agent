@@ -7,7 +7,11 @@ function emptyState(): PersistentState {
 }
 
 export class StateStore {
-  constructor(private readonly path: string) {}
+  private readonly path: string;
+
+  constructor(path: string) {
+    this.path = path;
+  }
 
   private async read(): Promise<PersistentState> {
     try {
