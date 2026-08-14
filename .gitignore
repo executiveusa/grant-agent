@@ -1,0 +1,6 @@
+node_modules/
+.env
+.grant-agent/
+.DS_Store
+*.log
+coverage/
