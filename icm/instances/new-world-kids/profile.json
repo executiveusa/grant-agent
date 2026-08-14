@@ -1,0 +1,43 @@
+{
+  "id": "new-world-kids",
+  "name": "New World Kids",
+  "legal_name": "THE NORTH WEST KIDS",
+  "description": "A youth-focused nonprofit organization teaching practical life skills through real projects in food, water, energy, and shelter.",
+  "stage": "nonprofit organization",
+  "location": "Washington, United States",
+  "focus_areas": [
+    "youth development",
+    "education",
+    "practical life skills",
+    "food systems",
+    "community resilience"
+  ],
+  "target_geographies": [
+    "Washington",
+    "United States"
+  ],
+  "constraints": [
+    "Do not assume or claim direct federal 501(c)(3) status for New World Kids unless a current source specifically proves it.",
+    "Fundraising and grant workflows involving fiscal sponsorship must respect Humanitarian Social Innovations review and approval requirements.",
+    "Do not invent participant counts, acreage, impact metrics, budgets, outcomes, dates, or relationships.",
+    "Use source-cited factual claims and surface missing facts to a human instead of filling gaps."
+  ],
+  "known_grants": [],
+  "programs": [
+    {
+      "name": "Culture Shock",
+      "geography": "Seattle, Washington",
+      "description": "Practical life-skills programming for young people using hands-on projects and mentorship."
+    },
+    {
+      "name": "Proyecto Indigo Azul",
+      "geography": "Puerto Vallarta / rural Mexico",
+      "description": "Field-based practical-skills and community-resilience work."
+    }
+  ],
+  "source_refs": [
+    "New World Kids public website and ICM",
+    "Washington nonprofit corporation certificate",
+    "Humanitarian Social Innovations fiscal sponsorship agreement"
+  ]
+}

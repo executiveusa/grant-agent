@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Grant Agent is a nonprofit funding operating agent that does the grant work and brings people in for judgment." />
+  <title>Grant Agent — Software that gets you out of your seat.</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="masthead">
+      <a class="wordmark" href="/" aria-label="Grant Agent home">GRANT AGENT</a>
+      <div class="identity" id="identity"></div>
+    </header>
+
+    <section class="hero" aria-labelledby="title">
+      <p class="eyebrow">NONPROFIT FUNDING OPERATIONS</p>
+      <h1 id="title">Software that gets you<br />out of your seat.</h1>
+      <p class="lede">Tell Grant Agent what needs funding. It researches the field, rejects weak opportunities, prepares the work, and calls you back when judgment is actually needed.</p>
+    </section>
+
+    <section class="workspace" aria-label="Grant Agent conversation">
+      <div class="status-strip" aria-label="Work status">
+        <div class="status-item" data-state="working"><span></span>Working</div>
+        <div class="status-item" data-state="needs-you"><span></span>Needs you</div>
+        <div class="status-item" data-state="ready"><span></span>Ready</div>
+      </div>
+
+      <div id="conversation" class="conversation" aria-live="polite">
+        <article class="message agent">
+          <p class="speaker">GRANT DIRECTOR</p>
+          <p>What do you need funded?</p>
+        </article>
+      </div>
+
+      <form id="need-form" class="composer">
+        <label class="sr-only" for="need">Describe what needs funding</label>
+        <textarea id="need" name="need" rows="3" placeholder="We need funding to expand our youth practical-skills program in Seattle..." required></textarea>
+        <div class="composer-foot">
+          <p>New World Kids · Prototype V1 · submissions disabled</p>
+          <button type="submit">Put the department to work →</button>
+        </div>
+      </form>
+    </section>
+
+    <footer class="footer">
+      <p>One agent to the human. Specialist workers underneath. Institutional context in ICM.</p>
+      <p>Prototype V1 does not submit grants.</p>
+    </footer>
+  </main>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
