@@ -35,3 +35,18 @@ jobs:
         run: node --version
       - name: Run prototype contract tests
         run: npm test
+      - name: Smoke-test local server
+        shell: bash
+        run: |
+          set -euo pipefail
+          npm start > /tmp/grant-agent.log 2>&1 &
+          pid=$!
+          trap 'kill "$pid" 2>/dev/null || true' EXIT
+          for attempt in {1..20}; do
+            if curl -fsS http://127.0.0.1:4317/api/v1/health > /tmp/health.json; then
+              break
+            fi
+            sleep 0.25
+          done
+          cat /tmp/health.json
+          node -e 'const h=require("/tmp/health.json"); if (!h.ok || h.submissionEnabled !== false) process.exit(1)'
