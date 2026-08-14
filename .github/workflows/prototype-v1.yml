@@ -5,6 +5,7 @@ on:
     paths:
       - "src/**"
       - "test/**"
+      - "scripts/**"
       - "public/**"
       - "icm/instances/**"
       - "package.json"
@@ -14,6 +15,7 @@ on:
     paths:
       - "src/**"
       - "test/**"
+      - "scripts/**"
       - "public/**"
       - "icm/instances/**"
       - "package.json"
@@ -50,3 +52,28 @@ jobs:
           done
           cat /tmp/health.json
           node -e 'const h=require("/tmp/health.json"); if (!h.ok || h.submissionEnabled !== false) process.exit(1)'
+
+  grant-finder-integration:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24.15.0"
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.25.x"
+      - name: Build pinned OpenProse Grant Finder
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p .deps .bin
+          git clone --filter=blob:none https://github.com/openprose/grant-finder.git .deps/grant-finder
+          git -C .deps/grant-finder checkout 35e947d928d4d9ce377fb31f21fa774fe5a90425
+          (cd .deps/grant-finder/cli/grant-finder && go build -o "$GITHUB_WORKSPACE/.bin/grant-finder" ./cmd/grant-finder)
+          "$GITHUB_WORKSPACE/.bin/grant-finder" version
+      - name: Run New World Kids deterministic discovery contract
+        env:
+          GRANT_FINDER_COMMAND: ${{ github.workspace }}/.bin/grant-finder
+        run: node scripts/verify-grant-finder.ts
