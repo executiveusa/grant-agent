@@ -1,0 +1,39 @@
+{
+  "id": "asc3nd",
+  "name": "ASC3ND Collective",
+  "legal_name": null,
+  "description": "An Everett, Washington community initiative building from Community Cuts for Kids with more ways for young people to find guidance, practice life skills, and connect with opportunity.",
+  "stage": "community organization",
+  "location": "Everett, Washington, United States",
+  "focus_areas": [
+    "youth development",
+    "mentorship",
+    "practical life skills",
+    "community participation",
+    "opportunity access"
+  ],
+  "target_geographies": [
+    "Everett, Washington",
+    "Snohomish County, Washington",
+    "Washington"
+  ],
+  "constraints": [
+    "Do not assume or claim federal 501(c)(3) status unless a current approved source proves it.",
+    "Do not invent participant counts, budgets, outcomes, partnerships, dates, legal status, or impact metrics.",
+    "Treat public-site language as approved narrative only where provenance is recorded; surface unknown grant facts to a human.",
+    "Grant submission, legal attestations, external email, and portal acceptance remain human-gated.",
+    "Use official or primary sources first and return source URLs with every opportunity recommendation."
+  ],
+  "known_grants": [],
+  "programs": [
+    {
+      "name": "Community Cuts for Kids",
+      "geography": "Everett, Washington",
+      "description": "A community event that brought young people, families, volunteers, and local supporters into the same space and serves as the current public evidence base for ASC3ND's next phase."
+    }
+  ],
+  "source_refs": [
+    "executiveusa/asc3nd-brand-site:lib/site-content.ts",
+    "ASC3ND Social Purpose OS tenant context"
+  ]
+}
