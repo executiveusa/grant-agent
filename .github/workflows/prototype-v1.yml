@@ -8,6 +8,7 @@ on:
       - "scripts/**"
       - "public/**"
       - "icm/instances/**"
+      - "docs/**"
       - "package.json"
       - ".github/workflows/prototype-v1.yml"
   push:
@@ -18,6 +19,7 @@ on:
       - "scripts/**"
       - "public/**"
       - "icm/instances/**"
+      - "docs/**"
       - "package.json"
       - ".github/workflows/prototype-v1.yml"
 
@@ -81,3 +83,16 @@ jobs:
         env:
           GRANT_FINDER_COMMAND: ${{ github.workspace }}/.bin/grant-finder
         run: node scripts/verify-asc3nd-grant-mission.ts
+      - name: Verify ASC3ND review packet exists
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s artifacts/asc3nd-funding-review-packet.json
+          node -e 'const p=require("./artifacts/asc3nd-funding-review-packet.json"); if (p.status !== "READY_FOR_REVIEW" || p.completion_standard?.workflow_completed !== true || p.completion_standard?.required_checks_passed !== true || p.completion_standard?.review_packet_produced !== true || p.completion_standard?.external_submission_enabled !== false) process.exit(1)'
+      - name: Upload ASC3ND funding review packet
+        uses: actions/upload-artifact@v4
+        with:
+          name: asc3nd-funding-review-packet
+          path: artifacts/asc3nd-funding-review-packet.json
+          if-no-files-found: error
+          retention-days: 30
