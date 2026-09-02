@@ -64,11 +64,11 @@ test("accepts consequential mission only after explicit approval id", () => {
 
 test("rejects capability policy conflicts", () => {
   const result = validateGrantMissionEnvelope(
-    mission({ allowed_capabilities: ["grant_submission"], denied_capabilities: ["grant_submission"] }),
+    mission({ allowed_capabilities: ["internal_draft"], denied_capabilities: ["internal_draft"] }),
     "asc3nd",
   );
   assert.equal(result.ok, false);
-  if (!result.ok) assert.equal(result.code, "APPROVAL_REQUIRED");
+  if (!result.ok) assert.equal(result.code, "CAPABILITY_CONFLICT");
 });
 
 test("requires provenance for non-null organization facts", () => {
