@@ -83,16 +83,22 @@ jobs:
         env:
           GRANT_FINDER_COMMAND: ${{ github.workspace }}/.bin/grant-finder
         run: node scripts/verify-asc3nd-grant-mission.ts
-      - name: Verify ASC3ND review packet exists
+      - name: Verify ASC3ND actionable packet exists
         shell: bash
         run: |
           set -euo pipefail
           test -s artifacts/asc3nd-funding-review-packet.json
-          node -e 'const p=require("./artifacts/asc3nd-funding-review-packet.json"); if (p.status !== "READY_FOR_REVIEW" || p.completion_standard?.workflow_completed !== true || p.completion_standard?.required_checks_passed !== true || p.completion_standard?.review_packet_produced !== true || p.completion_standard?.external_submission_enabled !== false) process.exit(1)'
-      - name: Upload ASC3ND funding review packet
+          test -s artifacts/ASC3ND_FUNDING_REVIEW_BRIEF.md
+          test -s artifacts/README_AGENT_ACTIONS.md
+          test -s artifacts/AGENT_MISSION.json
+          node -e 'const p=require("./artifacts/asc3nd-funding-review-packet.json"); if (p.status !== "READY_FOR_REVIEW" || p.completion_standard?.workflow_completed !== true || p.completion_standard?.required_checks_passed !== true || p.completion_standard?.review_packet_produced !== true || p.completion_standard?.agent_action_packet_produced !== true || p.completion_standard?.external_submission_enabled !== false) process.exit(1)'
+          node -e 'const m=require("./artifacts/AGENT_MISSION.json"); if (m.tenant_id !== "asc3nd" || m.approval_required !== "APPROVE: discovery-refinement:v1" || m.next_state_on_success !== "READY_FOR_REVIEW" || !m.forbidden_without_specific_approval.includes("grant_submission")) process.exit(1)'
+          grep -q "ICM as the canonical source" artifacts/README_AGENT_ACTIONS.md
+          grep -q "hard eligibility" artifacts/ASC3ND_FUNDING_REVIEW_BRIEF.md
+      - name: Upload ASC3ND actionable funding packet
         uses: actions/upload-artifact@v4
         with:
-          name: asc3nd-funding-review-packet
-          path: artifacts/asc3nd-funding-review-packet.json
+          name: asc3nd-actionable-funding-packet
+          path: artifacts/
           if-no-files-found: error
           retention-days: 30
