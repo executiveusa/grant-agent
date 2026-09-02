@@ -77,3 +77,7 @@ jobs:
         env:
           GRANT_FINDER_COMMAND: ${{ github.workspace }}/.bin/grant-finder
         run: node scripts/verify-grant-finder.ts
+      - name: Run ASC3ND deterministic funding mission
+        env:
+          GRANT_FINDER_COMMAND: ${{ github.workspace }}/.bin/grant-finder
+        run: node scripts/verify-asc3nd-grant-mission.ts
