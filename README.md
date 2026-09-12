@@ -130,3 +130,7 @@ The system may become more proactive without silently increasing its risk author
 Do not judge V1 by how much UI exists. Judge it by whether one real New World Kids funding need can become a smaller, source-cited set of opportunities with less human research and no fabricated facts.
 
 Only measured customer-zero results can support future time-saved, throughput, award-rate, or 9.5-quality claims.
+
+## 5.1 operating overlay and reusable WhatsApp design
+
+The Grant Director now composes the vendor-neutral [5.1 constitution](docs/FABLE-5.1-CONSTITUTION.md) into every ranking run. The [WhatsApp tenant design](docs/WHATSAPP-TENANT-DESIGN.md) defines the safe reusable product boundary and pilot acceptance tests. It is a design, not a deployed or enabled channel: external submission and automatic follow-up remain off.

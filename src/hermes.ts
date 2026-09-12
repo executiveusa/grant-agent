@@ -2,6 +2,7 @@ import { execFile } from "node:child_process";
 import { promisify } from "node:util";
 import { config, repoRoot } from "./config.ts";
 import type { DirectorResult, OrganizationContext } from "./types.ts";
+import { composeGrantDirectorPrompt } from "./fable51.ts";
 
 const execFileAsync = promisify(execFile);
 
@@ -39,7 +40,7 @@ export async function rankWithHermes(input: {
 }): Promise<DirectorResult> {
   const packet = JSON.stringify(input.researchPacket);
   const boundedPacket = packet.length > 180_000 ? `${packet.slice(0, 180_000)}\n[TRUNCATED]` : packet;
-  const prompt = `You are the Grant Director for a nonprofit funding operating system.
+  const prompt = composeGrantDirectorPrompt(`You are the Grant Director for a nonprofit funding operating system.
 
 NON-NEGOTIABLE RULES:
 - Use only the organization context and source-cited research packet supplied below.
@@ -64,7 +65,7 @@ SOURCE-CITED RESEARCH PACKET:
 ${boundedPacket}
 
 Return exactly this shape:
-${JSON_SHAPE}`;
+${JSON_SHAPE}`);
 
   try {
     // Hermes oneshot prints only the final response. The only exposed toolset
