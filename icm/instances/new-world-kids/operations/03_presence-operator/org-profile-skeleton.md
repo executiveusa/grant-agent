@@ -22,7 +22,7 @@ Grill answers from him will fill the UNKNOWNs. No account creation, no terms acc
 
 ## Locations and service area
 - Principal address: 6725 S 116th Pl, Seattle, WA 98178-3050 (Skyway) [PROVEN - WA SOS record]
-- Service area: Seattle (First 12 pilot, 2027) + prior project in rural Puerto Vallarta (Indigo Azul) [PROVEN - fundrazr.com/nwkids.org]
+- Service area: Western Washington - King, Pierce, AND Snohomish counties [PROVEN - owner voice note 2026-09-15]; founder currently in Everett. Seattle remains the First 12 pilot site (2027) + prior project in rural Puerto Vallarta (Indigo Azul) [PROVEN - fundrazr.com/nwkids.org]
 - Phone: UNKNOWN (none published on site or filing scrape)
 - Google Business Profile constraint (his paste): GBP excludes online-only orgs and may need live mobile video verification - cannot be automated from desktop. Plan for a him-on-his-phone step.
 
