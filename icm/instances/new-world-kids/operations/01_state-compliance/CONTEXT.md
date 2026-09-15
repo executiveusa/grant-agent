@@ -4,7 +4,7 @@
 Keep the corporation in good standing and prove it on demand. All platform verifications (Google for Nonprofits, Candid, GBP) depend on this.
 
 ## Canonical record (verified 2026-09-15 against ccfs.sos.wa.gov, browser config-c)
-- Name on record: NEW WORLD KIDS (current; original name THE NORTH WEST KIDS - see amendments 2023-05-02 and 2024-01-02)
+- Name on record: NEW WORLD KIDS - OWNER-CONFIRMED as the legal name 2026-09-15. Original name THE NORTH WEST KIDS (amendments 2023-05-02 and 2024-01-02 carried the rename); use NEW WORLD KIDS on all filings, workflows, and presence work.
 - UBI: 604 917 764 | Type: WA NONPROFIT CORPORATION | Status: ACTIVE
 - Expiration: 05/31/2027 (annual reports current; next renewal due before this date)
 - Formation: 05/16/2022, perpetual | Nature: AGRICULTURAL, EDUCATIONAL, CULTURAL

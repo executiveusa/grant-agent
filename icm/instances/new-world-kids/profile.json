@@ -1,7 +1,7 @@
 {
   "id": "new-world-kids",
   "name": "New World Kids",
-  "legal_name": "THE NORTH WEST KIDS",
+  "legal_name": "NEW WORLD KIDS",
   "description": "A youth-focused nonprofit organization teaching practical life skills through real projects in food, water, energy, and shelter.",
   "stage": "nonprofit organization",
   "location": "Washington, United States",
@@ -39,5 +39,8 @@
     "New World Kids public website and ICM",
     "Washington nonprofit corporation certificate",
     "Humanitarian Social Innovations fiscal sponsorship agreement"
-  ]
+  ],
+  "former_legal_name": "THE NORTH WEST KIDS",
+  "legal_name_note": "Owner-confirmed 2026-09-15; matches current WA SOS record (UBI 604 917 764). Former name retained for historical documents. EIN 85-1516064 (WA SOS record, verified 2026-09-15).",
+  "ein": "85-1516064"
 }

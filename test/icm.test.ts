@@ -5,7 +5,7 @@ import { buildResearchAssignment, loadOrganization } from "../src/icm.ts";
 test("New World Kids customer-zero ICM loads with bounded public-safe context", async () => {
   const org = await loadOrganization("new-world-kids");
   assert.equal(org.profile.id, "new-world-kids");
-  assert.equal(org.profile.legal_name, "THE NORTH WEST KIDS");
+  assert.equal(org.profile.legal_name, "NEW WORLD KIDS");
   assert.match(org.contextMarkdown, /Software that gets you out of your seat/);
   assert.match(org.contextMarkdown, /No external submission is enabled in Prototype V1/);
 });

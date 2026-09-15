@@ -15,7 +15,7 @@ Teach practical life skills through real projects organized around four pillars:
 - Proyecto Indigo Azul — Puerto Vallarta / rural Mexico.
 
 ## Public legal/trust facts allowed in this prototype
-- Legal corporation name: THE NORTH WEST KIDS.
+- Legal corporation name: NEW WORLD KIDS (owner-confirmed 2026-09-15; matches the current WA SOS record. Original incorporation name was THE NORTH WEST KIDS - renamed via the 2023/2024 Articles of Amendment; keep the old name only as historical reference for old documents.)
 - Washington nonprofit corporation; effective May 16, 2022; UBI 604 917 764.
 - Humanitarian Social Innovations is the fiscal sponsor under the signed sponsorship agreement available to the organization.
 
