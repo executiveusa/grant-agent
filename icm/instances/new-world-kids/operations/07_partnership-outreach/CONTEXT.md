@@ -1,3 +1,5 @@
+# NOTE: read ../GATES.md first - standing owner gates bind this lane (G1 email gate: every send needs his explicit per-send approval of exact words + recipient + identity).
+
 # Lane 07 - Partnership outreach (workforce, community)
 
 ## Standing rules
