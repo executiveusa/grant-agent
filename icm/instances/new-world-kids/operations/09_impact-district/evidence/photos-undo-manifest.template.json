@@ -1,0 +1,19 @@
+{
+  "manifest": "nwkids-photos-undo",
+  "batch_id": "YYYY-MM-batchNN",
+  "created_by": "agent-id",
+  "created_at": "ISO-8601",
+  "scope": "Photo/video organization, owner-authorized 2026-09-19/20; Drive-folder filings only, no deletes, originals untouched",
+  "entries": [
+    {
+      "item_id": "drive-file-id-or-content-hash",
+      "item_hint": "filename or date+description if known",
+      "action": "filed_to_folder",
+      "folder": "YYYY/MM-Month (owner naming) or UNKNOWN_DATE",
+      "classification": "nwkids-program|sports|mentors|garden|other|unattributed",
+      "classified_by": "metadata|filename|vision-model-free-tier|owner",
+      "ts": "ISO-8601"
+    }
+  ],
+  "rollback": "Replay entries in reverse: remove item from folder. Folders themselves are deleted only on owner order."
+}
