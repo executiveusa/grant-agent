@@ -12,3 +12,9 @@
 - Fit hypothesis: one First 12 activity structured truthfully as an arts/culture activation in an eligible Seattle park (underserved area). Eligibility NOT assumed - read guidelines first.
 - WATCH-OUT (city rule): cannot combine with certain other City funding (2027 Get Moving, Recreation For All, Hope For Youth) for the same project/expenses.
 - OWNER STEERING 2026-09-19: NO for now - he wants to discuss before anything moves. HELD: no application work, no info-session attendance, no outreach. Sep 21 info session passes without us unless he re-opens it. Ledger entry kept.
+
+## 2026-09-19 - KidsGardening Youth Garden Grant [RADAR NOTE - small, watch next cycle]
+- Source: https://kidsgardening.org/grants/grant-opportunities/youth-garden-grant/ (checked 2026-09-19).
+- $750 + tools/seeds for youth garden programs serving 15+ youth; 2026 round awarded early 2026, 2027 common app already published (kidsgardening.org 2027-common-app PDF). Next cycle expected late 2026.
+- Fit: Ground Up (urban gardening/food systems) pathway; tiny dollar but low effort and mission-true. Note: orgs that won any KidsGardening 2024-25 grant are ineligible - NWKids has no record of one.
+- Status: radar only. Given the owner's current hold posture (KC shelved, Arts in Parks held), NOT surfaced as an action item - revisit when the 2027 cycle opens.
