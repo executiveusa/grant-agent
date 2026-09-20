@@ -16,6 +16,8 @@
 3. Seahawks autograph route: does he have a contact, or is that part of the ask?
 4. Auction platform + reserve price; keep the $50k goal or re-scope?
 
+## STATUS 2026-09-19: PARKED - owner wants to discuss the bike site upgrades before anything moves. No build, no copy changes, no outreach. Recon + concept note stay on file for that discussion.
+
 ## Working rules
 - Site copy updates follow GATES.md (no publish without his approval; no Schneider name until documented; NFL/Seahawks marks handled carefully - "12s"/PNW football theme language, no official logos without permission).
 - 3D exploded-view redesign belongs to the foundry lane after this recon.
