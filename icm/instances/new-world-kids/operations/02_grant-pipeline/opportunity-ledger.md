@@ -28,3 +28,12 @@
 - Source: https://www.seattle.gov/parks/about-us/contracts-and-partnerships/partnership-opportunities/community-grant-programs/hope-for-youth-grant (vetted 2026-09-20).
 - $5,750 award, youth 11-19 activities; 2026 cycle ran Apr 14 - May 12, 2026 (CLOSED). 2027 cycle expected ~April 2027 based on the 2026 cadence.
 - Fit: First 12 shape (Seattle youth activities) at a small, low-effort award. Watch for the 2027 opening; cannot be combined with certain other City funding for the same project (per the Arts in Parks watch-out).
+
+## 2026-09-21 - 4Culture cultural-partner youth grants [RADAR NOTE - annual King County cycle]
+- Source: King County grant bulletin (content.govdelivery.com/accounts/WAKING/bulletins/3f67411, 2025 cycle reviewed 2026-09-21; deadlines from that cycle are PASSED - pattern reference only).
+- 4Culture funds cultural partners with youth-serving K-12 projects in King County public schools (2-year funding; in-school residencies, after-school, field trips, summer programs). Next cycle expected ~fall 2026 per the annual pattern - verify live when it opens.
+- Fit: Culture Shock shape (arts/culture + practical skills) in a King County school setting. Radar only given owner hold posture.
+
+## 2026-09-21 - Human Services Funding Collaborative [STRUCTURAL LEAD - one application, 16 KC cities]
+- Source: same King County bulletin. The Collaborative is a grants hub: ONE application automatically applies to grant opportunities at 16 King County cities (incl. Issaquah, Redmond, Sammamish).
+- Fit: efficient channel for a small org - one app, many municipal funders. Action when a cycle opens: check hub for current opportunities. Radar note.
