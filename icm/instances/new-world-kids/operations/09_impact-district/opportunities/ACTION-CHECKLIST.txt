@@ -1,0 +1,142 @@
+NEW WORLD KIDS - FUNDRAISING ACTION CHECKLIST
+(13 plays, delegation version - 2026-09-20)
+Built for: helpers running this while Bambu is away. Plain steps, in order.
+Source: the 13 opportunity plays + action plan in the Impact District (grant-agent repo, icm/instances/new-world-kids/operations/09_impact-district/opportunities/).
+
+==================================================
+WAITING ON BAMBU - 5 things only he can give us.
+Everything else can move while these wait.
+==================================================
+[ ] 1. NAMES: 3-5 "connector" people for the ambassador pilot (the parent who knows everyone, the volunteer who always brings a friend, the supporter who shares every post).
+[ ] 2. NUMBERS + STORIES: real impact numbers (how many kids, what they built/grew) and 1-2 short kid/program stories, for the case for support. We cannot invent these.
+[ ] 3. UNIT COSTS: what it really costs to put one kid through one program session / one garden bed / one bike build (dollar figures, approximate is fine).
+[ ] 4. PLATFORM CALL: after we hand him the one-page FundRazr-vs-Zeffy comparison, he picks the donation platform.
+[ ] 5. HSI PERMISSION: yes/no on asking HSI (our fiscal sponsor) how donor-advised-fund gifts can reach New World Kids under the sponsorship agreement.
+
+==================================================
+THE RULES (they do not bend, even when he is away)
+==================================================
+- NOTHING is sent, published, or posted without Bambu's explicit yes on the exact words and recipients. Drafts are always fine. If he is unreachable, the item waits. Do not work around this.
+- $0 spend. No paid tools, no boosted posts, no fees. If a step seems to cost money, stop and flag it.
+- No invented facts. If a number or story is not from Bambu or a document, it does not go in.
+- Kids' privacy: no child names or faces anywhere public without Bambu's yes.
+
+ROLES:
+[HELPER] = a person helping us, no tech skills needed.
+[AGENT]  = Bambu's AI crew (they do drafts, research, setup).
+[BAMBU]  = only Bambu.
+
+==================================================
+PHASE 1 - THE FOUNDATION (start here, this week)
+==================================================
+
+PLAY 1 - LOOK LEGIT WHEN A FUNDER GOOGLES US
+Goal: anyone who searches "New World Kids Seattle" finds a complete, matching, alive organization.
+[ ] [AGENT] Finish creating the social accounts (YouTube, Instagram, TikTok, X) under nwkidsorg@gmail.com. (Facebook page exists: facebook.com/nwkidsorg.)
+[ ] [HELPER] When a signup asks for a phone or email code, send Bambu the exact tap request and wait.
+[ ] [AGENT] Set up the Google Business Profile once Bambu picks the address (Everett base vs service-area).
+[ ] [AGENT] Clean up nwkids.org (broken links, donate button working, same facts everywhere: NEW WORLD KIDS, UBI 604 917 764, EIN 85-1516064, serving King/Pierce/Snohomish counties).
+DONE WHEN: a stranger Googling us finds the site, the Facebook page, and consistent facts on the first screen.
+
+PLAY 2 - THE CASE FOR SUPPORT (the master document)
+Goal: one short document that every ask, page, and email quotes from.
+[ ] [AGENT] Draft it from verified facts (mission: practical life skills through real projects - food, water, energy, shelter; programs: Culture Shock Seattle + Proyecto Indigo Azul; First 12 pilot).
+[ ] [BAMBU] Supplies the real numbers and 1-2 stories (WAITING item 2).
+[ ] [AGENT] Final draft to Bambu for approval.
+DONE WHEN: Bambu approves one document and every later step quotes it.
+
+PLAY 3 - THE PROSPECT LIST
+Goal: one living list of warm people, instead of "we don't know donors."
+[ ] [HELPER] Create the list (spreadsheet or notebook): name, how they know NWKids (parent/volunteer/mentor/friend), phone or email, notes.
+[ ] [BAMBU] Brain-dumps the first names (WAITING item 1 overlaps).
+[ ] [HELPER] Keep it growing: every program signup, volunteer, and event adds rows.
+DONE WHEN: the list exists, has real names, and someone owns adding to it weekly.
+
+==================================================
+PHASE 2 - THE CENTER: PEER-TO-PEER (weeks 2-4)
+This is the heart of the whole plan: our people ask their people.
+==================================================
+
+PLAY 4 - THE AMBASSADOR PILOT (THE CENTERPIECE)
+Goal: 3-5 ambassadors each personally ask 10-20 people to give to the First 12 (fundrazr.com/nwkids.org).
+[ ] [BAMBU] Names the 3-5 connectors (WAITING item 1).
+[ ] [AGENT] Build the ambassador kit: one page with (a) 3 sentences about NWKids from the case for support, (b) the First 12 link, (c) a sample personal message they can copy and make their own, (d) "thank you + what happens next."
+[ ] [HELPER] Personally deliver the kit to each ambassador (call, coffee, or message from Bambu's phone with his yes on the words). Ask: "Will you send this to 10-20 people you know?"
+[ ] [HELPER] Check in with each ambassador twice a week: how many sent, any questions, cheer them on.
+[ ] [HELPER] Log every gift and who brought it in on the prospect list.
+DONE WHEN: 3-5 ambassadors are actively asking, and every gift is logged with its source.
+
+PLAY 5 - REWRITE THE DONATION PAGE LIKE A DONOR READS IT
+Goal: the First 12 page talks about what a gift DOES, not what we need.
+[ ] [AGENT] Draft the rewrite: open with one real kid/program moment, say exactly what $25/$50/$100 does, short sentences, one clear ask.
+[ ] [BAMBU] Approves the exact words before anything changes on the live page.
+DONE WHEN: the page reads like it was written for one person, not "the public."
+
+PLAY 6 - FIND THE FIRST MAJOR DONOR IN THE WARM CIRCLE
+Goal: spot the 1-2 people in our existing circle who could give a bigger gift, and have a real conversation.
+[ ] [HELPER] From the prospect list, flag anyone who: opens everything, volunteers, gives already, or has capacity.
+[ ] [AGENT] Draft a personal conversation outline for Bambu (not a script to read - points to hit).
+[ ] [BAMBU] Has the conversation himself. Major gifts come from him, not from helpers.
+DONE WHEN: the shortlist exists and Bambu has had (or scheduled) the first conversation.
+
+==================================================
+PHASE 3 - COMPOUNDING (days 30-60)
+==================================================
+
+PLAY 7 - PLATFORM CHECK (FundRazr vs Zeffy)
+Goal: keep more of every dollar.
+[ ] [AGENT] One-page comparison: fees per $100 on FundRazr vs Zeffy (Zeffy charges the org nothing; donors see an optional tip), donor experience, and what HSI's agreement allows.
+[ ] [BAMBU] Picks the platform (WAITING item 4).
+DONE WHEN: decision logged; if switching, migration steps drafted for his yes.
+
+PLAY 8 - THE EMPLOYER QUESTION (matching gifts)
+Goal: start collecting the data that doubles gifts later.
+[ ] [HELPER/AGENT] Add one OPTIONAL line to the donation and volunteer forms: "Where do you work? Your employer might double your gift." Optional means people can skip it - never block a donation.
+[ ] [HELPER] When the list has 10+ employers noted, tell the agents; they check which of those companies run match programs.
+DONE WHEN: the question is live on the forms and answers are being logged.
+
+PLAY 9 - MONTHLY GIVERS (the survival metric)
+Goal: turn one-time givers into $10-20/month supporters.
+[ ] [BAMBU] Supplies unit costs (WAITING item 3) - e.g. "$15 covers one kid's program session."
+[ ] [AGENT] Draft the 3-level monthly ladder tied to those costs, plus the page copy.
+[ ] [HELPER] After the ambassador wave, personally invite happy first-time givers to go monthly (with Bambu's yes on the words).
+DONE WHEN: the monthly option is live and the first recurring gifts exist.
+
+PLAY 10 - BETTER GRANT LETTERS (LOI FIX)
+Goal: grant letters that lead with the problem, not with us.
+[ ] [AGENT] Set the standing pattern: 1-2 plain sentences on the problem and who it affects, then a short "why us" bridge. No emotional pressure language - funders want clarity and fit.
+[ ] [AGENT] Apply it to the next Skip cycle package and the NMF 2027 Round One (opens early January).
+DONE WHEN: every grant draft follows the pattern; Bambu approves each submission (always).
+
+==================================================
+PHASE 4 - SCALE (days 60-120) - only after Phases 1-3 move
+==================================================
+
+PLAY 11 - CORPORATE PARTNERS (matchmaking, not pitching)
+Goal: 5-10 local employers whose goals overlap ours (youth, skills, gardens, bikes).
+[ ] [AGENT] Research shortlist: Everett/Seattle employers with community or youth programs.
+[ ] [AGENT] Draft a conversation opener (a conversation, not a pitch deck).
+[ ] [BAMBU] Approves and owns first contact.
+DONE WHEN: shortlist exists and the first conversations are booked.
+
+PLAY 12 - SPONSORSHIP DECK FROM REAL ASSETS
+Goal: a short deck that sells what sponsors actually get (not gold/silver/bronze tiers).
+[ ] [AGENT] After the proof clips are edited (footage project, in flight), build the asset inventory: audience, programs, footage, events-in-the-community.
+[ ] [AGENT] Draft the activation menu (sponsor a build day, a garden bed, a bike) + the deck.
+[ ] [BAMBU] Approves before it is shown to anyone.
+DONE WHEN: the deck exists and Bambu has approved showing it.
+
+PLAY 13 - DONOR-ADVISED FUNDS VIA HSI
+Goal: open the door for donors who give through donor-advised funds.
+[ ] [BAMBU] Yes/no on asking HSI how DAF gifts route to us (WAITING item 5).
+[ ] [AGENT] If yes: draft the HSI question, he sends it.
+[ ] [AGENT] When HSI answers, draft the "give through your DAF" instructions for the donate page (his approval to publish).
+DONE WHEN: a DAF donor could give to NWKids today without confusion.
+
+==================================================
+WEEKLY RHYTHM FOR THE HELPER TEAM
+==================================================
+[ ] Monday: check WAITING ON BAMBU - anything he answered? Move it forward.
+[ ] Wednesday: ambassador check-ins (Phase 2) + prospect list updates.
+[ ] Friday: one status note to Bambu - what moved, what's stuck, what needs him.
+Remember: drafts yes, sends no - his explicit yes fires everything.
