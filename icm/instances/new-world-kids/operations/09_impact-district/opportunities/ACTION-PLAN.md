@@ -41,3 +41,9 @@ First 12 campaign (live, FundRazr) -> PEER-TO-PEER AMBASSADOR WAVE (the center) 
 5. HSI: may we ask how DAF gifts route under the sponsorship agreement (OPP-05).
 
 Gates: G1 (every word of outreach approved per-send), G2 (no submissions), G3 ($0 - every phase above is $0; any future paid move gets its own ask), G6 (no invented facts, no Yappyverse).
+
+## Owner steering 2026-09-21 (voice note via main, 12:45 PM CST)
+- nwkids.org is READ-ONLY reference. Nothing touches the website; agents may pull from it only to align their work. The site-cleanup step under Play 1 is struck until he says otherwise.
+- Focus narrows to exactly two projects: the FIRST 12 project and the INDIGO AZUL project. Everything else drops out of scope; new leads are captured only where they plausibly fund one of these two.
+- Drafting standard: apply the Tracy Clark methodology (learning log 2026-09-17) - niche down and name exactly who is served (inner-city Seattle youth / the First 12) in all public and grant copy; no generic "youth" language; stay four-pillars focused, no cause-piling.
+- Alignment target: FUNDRAISING.

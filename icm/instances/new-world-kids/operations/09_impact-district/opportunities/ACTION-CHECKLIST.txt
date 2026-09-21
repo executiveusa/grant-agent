@@ -2,6 +2,7 @@ NEW WORLD KIDS - FUNDRAISING ACTION CHECKLIST
 (13 plays, delegation version - 2026-09-20)
 Built for: helpers running this while Bambu is away. Plain steps, in order.
 Source: the 13 opportunity plays + action plan in the Impact District (grant-agent repo, icm/instances/new-world-kids/operations/09_impact-district/opportunities/).
+SCOPE (owner voice note 2026-09-21): focus is the FIRST 12 project and the INDIGO AZUL project only. nwkids.org is read-only. Drafting standard: Tracy Clark methodology - name exactly who is served, no generic language. Alignment target: fundraising.
 
 ==================================================
 WAITING ON BAMBU - 5 things only he can give us.
@@ -35,7 +36,7 @@ Goal: anyone who searches "New World Kids Seattle" finds a complete, matching, a
 [ ] [AGENT] Finish creating the social accounts (YouTube, Instagram, TikTok, X) under nwkidsorg@gmail.com. (Facebook page exists: facebook.com/nwkidsorg.)
 [ ] [HELPER] When a signup asks for a phone or email code, send Bambu the exact tap request and wait.
 [ ] [AGENT] Set up the Google Business Profile once Bambu picks the address (Everett base vs service-area).
-[ ] [AGENT] Clean up nwkids.org (broken links, donate button working, same facts everywhere: NEW WORLD KIDS, UBI 604 917 764, EIN 85-1516064, serving King/Pierce/Snohomish counties).
+[X] [AGENT] Clean up nwkids.org - STRUCK 2026-09-21 by owner: nwkids.org is read-only reference; no site work until he says otherwise.
 DONE WHEN: a stranger Googling us finds the site, the Facebook page, and consistent facts on the first screen.
 
 PLAY 2 - THE CASE FOR SUPPORT (the master document)
