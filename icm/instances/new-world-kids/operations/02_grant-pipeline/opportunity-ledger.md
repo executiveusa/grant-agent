@@ -18,3 +18,13 @@
 - $750 + tools/seeds for youth garden programs serving 15+ youth; 2026 round awarded early 2026, 2027 common app already published (kidsgardening.org 2027-common-app PDF). Next cycle expected late 2026.
 - Fit: Ground Up (urban gardening/food systems) pathway; tiny dollar but low effort and mission-true. Note: orgs that won any KidsGardening 2024-25 grant are ineligible - NWKids has no record of one.
 - Status: radar only. Given the owner's current hold posture (KC shelved, Arts in Parks held), NOT surfaced as an action item - revisit when the 2027 cycle opens.
+
+## 2026-09-20 - Allen Family Philanthropies Creative Youth Development RFP [VETTED - INELIGIBLE, closed to us]
+- Source: https://www.allenphilanthropies.org/creative-youth-development-rfp (vetted 2026-09-20).
+- Up to $500k over 3 years, WA youth 13-26 creative youth development. LOI opened Sep 16, proposals (invited) due Feb 4.
+- INELIGIBLE: (1) eligible counties only = Adams, Asotin, Columbia, Ferry, Franklin, Garfield, Grant, Gray's Harbor, Pacific, Pend Oreille, Whitman - King/Pierce/Snohomish NOT eligible; (2) programs must be in continuous operation 3+ years as of 2025-11-19 and EXISTING (not new) efforts. Logged for the record; no action.
+
+## 2026-09-20 - Seattle Parks Hope for Youth Grant [RADAR NOTE - 2026 cycle closed, watch 2027]
+- Source: https://www.seattle.gov/parks/about-us/contracts-and-partnerships/partnership-opportunities/community-grant-programs/hope-for-youth-grant (vetted 2026-09-20).
+- $5,750 award, youth 11-19 activities; 2026 cycle ran Apr 14 - May 12, 2026 (CLOSED). 2027 cycle expected ~April 2027 based on the 2026 cadence.
+- Fit: First 12 shape (Seattle youth activities) at a small, low-effort award. Watch for the 2027 opening; cannot be combined with certain other City funding for the same project (per the Arts in Parks watch-out).
