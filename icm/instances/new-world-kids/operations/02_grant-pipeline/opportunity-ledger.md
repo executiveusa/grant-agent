@@ -37,3 +37,8 @@
 ## 2026-09-21 - Human Services Funding Collaborative [STRUCTURAL LEAD - one application, 16 KC cities]
 - Source: same King County bulletin. The Collaborative is a grants hub: ONE application automatically applies to grant opportunities at 16 King County cities (incl. Issaquah, Redmond, Sammamish).
 - Fit: efficient channel for a small org - one app, many municipal funders. Action when a cycle opens: check hub for current opportunities. Radar note.
+
+## 2026-09-21 - Seattle Arts Youth Arts Grant [RADAR - 2026 closed, watch 2027 reopen]
+- Source: https://www.seattle.gov/arts/programs/grants/youth-arts-grant (vetted 2026-09-21). Page states application re-opens 2027.
+- 2-year art programs, Seattle middle/high school youth, out-of-school time, teaching artists, equity focus. 2026 cycle opened 1/27/2026, closed 3/10/2026.
+- Fit: Indigo Azul-shaped arts programming under the narrowed First 12 + Indigo Azul scope. Capture only - no application work without his word.
