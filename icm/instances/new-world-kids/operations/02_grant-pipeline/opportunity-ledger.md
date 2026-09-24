@@ -49,3 +49,7 @@
 - DEEL Provider Survey (Mentoring Program Design) open through September 28, 2026. Survey participation = telling the City what providers/youth need; it is not an application and creates no commitment.
 - Fit: strong First 12 alignment (Seattle youth, mentoring model, education/career reconnection). Gun-violence priority: claims must stay truthful per claim ledger - only experience supported by evidence.
 - Status: captured. Awaiting owner decision on whether NWKids submits a Provider Survey response (needs his approval on exact content per standing gates). RFP eligibility review when the December RFP drops.
+## 2026-09-24 - 4Culture Open 4Culture [CAPTURED - ongoing, no fixed deadline]
+- Source: https://www.4culture.org/grants/open-4culture/ (vetted 2026-09-24).
+- Up to $2,500 for arts/heritage/historic-preservation projects in King County. Ongoing intake; application due 3 months before the project/event. Staff walk first-time applicants through. Contact: Scott Oshima, 4open@4culture.org, (206) 296-7580.
+- Fit: small, low-effort first-grant reps; a First 12 community showcase or garden-art event could fit (Indigo Azul-adjacent arts shape). Capture only - no application work without his word.
