@@ -42,3 +42,10 @@
 - Source: https://www.seattle.gov/arts/programs/grants/youth-arts-grant (vetted 2026-09-21). Page states application re-opens 2027.
 - 2-year art programs, Seattle middle/high school youth, out-of-school time, teaching artists, equity focus. 2026 cycle opened 1/27/2026, closed 3/10/2026.
 - Fit: Indigo Azul-shaped arts programming under the narrowed First 12 + Indigo Azul scope. Capture only - no application work without his word.
+
+## 2026-09-23 - Seattle DEEL Youth Mentoring Investment (FEPP Levy) [DESIGN PHASE - survey open thru Sep 28, RFP Dec 2026]
+- Source: https://education.seattle.gov/deel-seeks-seattle-youth-community-organizations-mentoring-grant-design/ (published 2026-09-18, vetted live 2026-09-23). Lead arrived via an inbound funding-watch alert email (external content - verified against the official page, not acted on).
+- ~$800,000/year FEPP Levy investment: youth mentoring, reconnecting Seattle youth to education and career pathways, priority for youth most impacted by gun violence. Design phase NOW; RFP planned December 2026; multi-year contracts starting 2027.
+- DEEL Provider Survey (Mentoring Program Design) open through September 28, 2026. Survey participation = telling the City what providers/youth need; it is not an application and creates no commitment.
+- Fit: strong First 12 alignment (Seattle youth, mentoring model, education/career reconnection). Gun-violence priority: claims must stay truthful per claim ledger - only experience supported by evidence.
+- Status: captured. Awaiting owner decision on whether NWKids submits a Provider Survey response (needs his approval on exact content per standing gates). RFP eligibility review when the December RFP drops.
