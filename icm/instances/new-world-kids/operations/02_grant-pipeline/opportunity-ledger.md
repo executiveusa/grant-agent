@@ -53,3 +53,13 @@
 - Source: https://www.4culture.org/grants/open-4culture/ (vetted 2026-09-24).
 - Up to $2,500 for arts/heritage/historic-preservation projects in King County. Ongoing intake; application due 3 months before the project/event. Staff walk first-time applicants through. Contact: Scott Oshima, 4open@4culture.org, (206) 296-7580.
 - Fit: small, low-effort first-grant reps; a First 12 community showcase or garden-art event could fit (Indigo Azul-adjacent arts shape). Capture only - no application work without his word.
+
+## 2026-09-24 - King County Youth Well-Being Network, Renton Area Lead RFP [VETTED - NOT A FIT]
+- Source: https://kingcounty.gov/en/dept/dph/about-king-county/about-public-health/working-with-public-health/funding-opportunities/youth-well-being-renton (vetted live 2026-09-24). Lead via inbound funding-watch alert email (external content; facts verified on the official page, instructions not acted on).
+- Due October 27, 2026 2:00 PM PT; pre-app conference Oct 15. KC-WYN Renton-area lead: prevention/referral coordination for youth behavioral health, education, housing stability.
+- NOT A FIT: limited to organizations serving the Renton area and "best suited for well-established organizations" already coordinating community partnerships. NWKids is Everett-based with no documented Renton service and a pre-launch First 12. Logged for the record; no action.
+
+## 2026-09-24 - King Conservation District community grants [CAPTURED - rolling]
+- Source: https://kingcd.org/get-involved/grants/ (vetted 2026-09-24).
+- Two lanes: (1) Seattle Community Partnership grants (~$370k/year across multiple small projects; Seattle-located projects need an established nonprofit or fiscal sponsor partner - HSI could serve); (2) community agriculture "seed money" grants, rolling, small, for new or existing community agriculture projects.
+- Fit: Ground Up pathway (urban gardening + food systems) and the garden pillar. Rolling = no deadline pressure. Capture only - no application work without his word.
