@@ -63,3 +63,9 @@
 - Source: https://kingcd.org/get-involved/grants/ (vetted 2026-09-24).
 - Two lanes: (1) Seattle Community Partnership grants (~$370k/year across multiple small projects; Seattle-located projects need an established nonprofit or fiscal sponsor partner - HSI could serve); (2) community agriculture "seed money" grants, rolling, small, for new or existing community agriculture projects.
 - Fit: Ground Up pathway (urban gardening + food systems) and the garden pillar. Rolling = no deadline pressure. Capture only - no application work without his word.
+
+## 2026-09-26 - Community Foundation of Snohomish County, Youth Initiative Grant [CAPTURED - opens Oct 16, 2026]
+- Source: https://www.cf-sc.org/non-profits/grant-opportunities/ (vetted live 2026-09-26).
+- Up to $5,000, youth under 20, Snohomish County programming. Mentorship, arts-based programs, digital literacy, mental health all eligible; scholarships NOT eligible. Non-renewable. Explicitly funds programs that sustain existing efforts "without the pressure to scale" - friendly to small/founding orgs.
+- Opens October 16, 2026 (deadline not yet posted). Eligibility fine print to check when it opens: whether 501(c)(3) is required and whether HSI fiscal sponsorship satisfies it (the sibling RSE grant on the same page requires 501(c)(3)).
+- Fit: home-county funder (founder based in Everett; 3-county service area includes Snohomish). Mentorship + arts language matches First 12 shape; a Snohomish-sited element would be needed if the program must serve Snohomish youth specifically. Capture only - no application work without his word.
