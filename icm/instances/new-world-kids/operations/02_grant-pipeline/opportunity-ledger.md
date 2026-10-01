@@ -69,3 +69,8 @@
 - Up to $5,000, youth under 20, Snohomish County programming. Mentorship, arts-based programs, digital literacy, mental health all eligible; scholarships NOT eligible. Non-renewable. Explicitly funds programs that sustain existing efforts "without the pressure to scale" - friendly to small/founding orgs.
 - Opens October 16, 2026 (deadline not yet posted). Eligibility fine print to check when it opens: whether 501(c)(3) is required and whether HSI fiscal sponsorship satisfies it (the sibling RSE grant on the same page requires 501(c)(3)).
 - Fit: home-county funder (founder based in Everett; 3-county service area includes Snohomish). Mentorship + arts language matches First 12 shape; a Snohomish-sited element would be needed if the program must serve Snohomish youth specifically. Capture only - no application work without his word.
+
+## 2026-09-29 - Skyway Coalition Youth Sparks Grant Project [VETTED - NOT A FIT]
+- Source: https://skywaycoalition.org/youth-sparks-grant-project/ (vetted live 2026-09-29).
+- $25,000 per project, $175,000 total, youth 5-24; projects between Jan 1, 2025 and Dec 31, 2026.
+- NOT A FIT: requires serving youth within the Skyway area and being based in or having strong ties to the Skyway community. NWKids has no documented Skyway presence (Everett base, Seattle First 12 pilot). Same geographic-gate pattern as KC-WYN Renton. Logged for the record; no action.
